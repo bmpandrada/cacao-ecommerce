@@ -1,0 +1,10 @@
+/* The following line can be included in a src/App.scss */
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import '../node_modules/bootstrap/dist/css/bootstrap-reboot.min.css';
+
+@import './sass/abstract/variable';
+
+@import './sass/components/navbar';
+
+
+
